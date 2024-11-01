@@ -1,0 +1,9 @@
+/*
+Description: Style CommentLuv CSS File
+Author: Shivendu Madhava
+Author URI: http://www.technozeast.com/
+Date:2009-08-12
+*/
+
+.cluv {display:block; padding:8px;border: 1px solid #E1E1E0; background: #F5F5F5; text-transform: none; font-style: normal; letter-spacing: 0; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin-top: 15px;}
+.custom #comments abbr {display:block; padding:8px;border: 1px solid #E1E1E0; background: #F5F5F5; text-transform: none; font-style: normal; letter-spacing: 0; -moz-border-radius: 5px; -webkit-border-radius: 5px; margin-top: 15px;}
